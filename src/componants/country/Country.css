@@ -1,0 +1,7 @@
+.country{
+    background-color: lightslategray;
+    border: 2px solid yellowgreen;
+    color: white;
+    /* margin: 10px 0; */
+    border-radius: 5px;
+}
